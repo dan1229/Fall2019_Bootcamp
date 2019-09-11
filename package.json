@@ -10,9 +10,9 @@
   "author": "Medhir Bhargava",
   "license": "MIT",
   "devDependencies": {
-    "should": "^7.1.1"
+    "should": "^13.2.3"
   },
   "dependencies": {
-    "request": "^2.67.0"
+    "request": "^2.88.0"
   }
 }
